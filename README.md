@@ -20,7 +20,7 @@ and downloading a ZIP.
 When you have the files ready on your computer (unzipped, if necessary), open the `index.html` file.
 
 If you are using a mobile device or just don't want to download anyting, you can
-[go to this URL](https://ioclaud.github.io/fend-arcade-game/) and start the game right away.
+[go to this URL](https://ioclaud.github.io/feed-reader-testing/) and start the game right away.
 
 
 ### Get started
@@ -39,4 +39,4 @@ If you are using a mobile device or just don't want to download anyting, you can
 
 ## License
 
-This project is licensed under the GPL v3.0 License. It is available [here](https://github.com/IoClaud/memory-game/blob/master/LICENSE)
+This project is licensed under the GPL v3.0 License. It is available [here](https://github.com/IoClaud/feed-reader-testing/blob/master/LICENSE)
