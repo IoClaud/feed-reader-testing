@@ -19,9 +19,6 @@ or by clicking the green "Clone or download" button on the [repository's main pa
 and downloading a ZIP.
 When you have the files ready on your computer (unzipped, if necessary), open the `index.html` file.
 
-If you are using a mobile device or just don't want to download anyting, you can
-[go to this URL](https://ioclaud.github.io/feed-reader-testing/) and start the game right away.
-
 
 ### Get started
 
